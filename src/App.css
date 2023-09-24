@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+.container_form1 {
+  background-color: #f1f6da;
+  border: #01051d 1px solid;
+  border-radius: 10px;
+  float: left;
+  margin: 2%;
+  width: 500px;
+  max-width: 500px;
+  min-height: 75vh;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(9px + 2vmin);
+  color: #04137f;
+}
+
+.container_form2 {
+  background-color: #f0f9f9;
+  border: #01051d 1px solid;
+  border-radius: 10px;
+  float: right;
+  margin: 2%;
+  width: 500px;
+  max-width: 500px;
+  min-height: 75vh;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(9px + 2vmin);
+  color: #0d1235;
+}
+
+.container_list {
+  align-items: center;
+  justify-content: center;
+  font-size: calc(7px + 2vmin);
+  color: #07b933;
+}
+
+.llabel{
+  font-size: 1.1rem;
+  color: #06081e;
+}
+
+.error-message{
+  font-size: 1rem;
+  color: #bb0505;
+}
+
+.lista{
+  font-size: 1.1rem;
+  color: #06081e;
+  margin-bottom: -10px;
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.listagem{
+  font-size: 1.1rem;
+    
+}
+
+p{
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: #071cb9;
+  padding: 0px;
+  margin: 0 auto;
+}
+
+
